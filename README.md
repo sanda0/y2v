@@ -1,7 +1,7 @@
 # y2v-YouTube-Downloader
 This is youtube video and playlist downloader
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<a class="btn btn-primary">Download</a>
+
+<a href="https://github.com/sandakelum15/y2v/releases/download/1.0/Y2V-setup.exe">Download</a>
 
 > video downloading path : C:\Users\\%user%\Videos
 
